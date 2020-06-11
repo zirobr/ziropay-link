@@ -799,10 +799,10 @@ a {
 }
 .cid-rOMquMlWae .card {
   background: #000000;
-  padding: 5rem 5rem;
+  padding: 3rem 5rem;
 }
 .cid-rOMquMlWae img {
-  width: 100%;
+  max-width: 220px;
 }
 .cid-rOMquMlWae .content {
   max-width: 800px;
@@ -820,6 +820,9 @@ a {
 }
 .cid-rOMquMlWae H1 {
   color: #ffe401;
+}
+.cid-rOMquMlWae .appziro {
+  margin: auto;
 }
 .cid-rOMqv0FG3v {
   padding-top: 45px;
@@ -996,7 +999,7 @@ a {
 }
 .cid-rOMqvR1cN9 {
   padding-top: 30px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background: #ffffff;
 }
 .cid-rOMqvR1cN9 .list-group-item {
@@ -1023,7 +1026,7 @@ a {
   border: 1px solid rgba(0, 0, 0, 0.1);
   height: fit-content;
   position: relative;
-  max-width: 330px;
+  max-width: 410px;
   padding-right: 0;
   padding-left: 0;
   transition: all 0.3s;
