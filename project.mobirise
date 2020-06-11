@@ -146,7 +146,8 @@
               "color": "#ffe401"
             },
             ".appziro": {
-              "margin": "auto"
+              "margin": "auto",
+              "max-width": "220px"
             }
           },
           "_name": "header03",
